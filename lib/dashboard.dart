@@ -19,15 +19,14 @@ class Dashboard extends StatelessWidget {
             style: TextStyle(
               color: Colors.red, 
               fontSize: 50, 
-              fontWeight: 
-              FontWeight.bold
+              fontWeight: FontWeight.bold
             ),
           ),
           Container(
             height: 50,
           ),
           const Text('Welcome to Pokedex'),
-          const Text('Check out all the pokemons stats here'),
+          const Text('You can find your favorite pokemon here'),
           Container(
             height: 100,
           ),
